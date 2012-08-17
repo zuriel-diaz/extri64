@@ -1,0 +1,7 @@
+.container{ width: 40%; } 
+#string, #encrypted_string{ width: 98%; }
+#step_2 { display: none; }
+#ringtone, #image, #string { display: none; }
+#ringtone, #image { width: 70%; }
+#step_2 h3, #step_2 p{ margin-left: 30%;}
+#btn_encrypt{ width: 25%; margin-top: 3%;  }
